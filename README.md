@@ -1,44 +1,40 @@
-# 🧠 Repositório de Experimentos e Projetos em Machine Learning
+<h1 align="center">🧠 Machine Learning Experiments</h1>
+<br>
 
-![Banner](https://github-dbrazl.s3.amazonaws.com/machine-learning/banner.jpg)
+![Banner](https://github-dbrazl.s3.us-east-1.amazonaws.com/machine-learning-experiments/banner.svg?)
 
-Bem-vindo ao meu repositório de Machine Learning! Este espaço foi criado para compartilhar os diversos experimentos, estudos e projetos que venho desenvolvendo ao longo da minha jornada na área de aprendizado de máquina.
+<p align="center">
+    Bem-vindo ao meu repositório de Machine Learning! Este espaço foi criado para compartilhar os diversos experimentos, estudos e projetos que venho desenvolvendo ao longo da minha jornada na área de aprendizado de máquina.
+</p>
+
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/autor-@dbrazl-blue?style=flat" alt="Autor: @dbrazl">
+</p>
+<br>
 
 ## 🎯 Objetivo
 
-O objetivo deste repositório é servir como um registro detalhado e acessível dos meus trabalhos em machine learning. Aqui, você encontrará uma variedade de projetos que abrangem desde a implementação de algoritmos básicos até aplicações avançadas, além de estudos de caso e experimentos específicos.
+<p align="justify">
+  Este repositório tem como objetivo centralizar experimentos e estudos de caso em machine learning, servindo como um espaço de aprendizado prático e aprofundamento na área. Ele abrange desde técnicas tradicionais, como regressão linear, regressão logística, árvores de decisão, florestas aleatórias e Naive Bayes, até algoritmos mais modernos de deep learning, incluindo experimentos com classificação de imagens no SageMaker. Através dessas implementações e análises, o repositório busca facilitar o entendimento e a aplicação de algoritmos variados, promovendo o desenvolvimento contínuo de habilidades em machine learning.
+</p>
 
-## 📁 Conteúdo
+## 🛠 Tecnologias
 
-- **Algoritmos Básicos**: Implementações de algoritmos fundamentais de machine learning, como regressão linear, k-NN, árvores de decisão, entre outros.
+<p align="justify">
+  As tecnologias utilizadas nesse projeto foram:
+</p>
 
-- **Modelos Avançados**: Projetos utilizando técnicas mais avançadas, como redes neurais profundas, SVM, Random Forest, etc.
-
-- **Estudos de Caso**: Análises detalhadas de problemas reais, abordando desde a preparação dos dados até a avaliação dos modelos.
-
-- **Experimentos**: Testes e comparações de diferentes algoritmos e técnicas para solucionar problemas específicos, incluindo tuning de hiperparâmetros e validação cruzada.
-
-- **Tutoriais e Notebooks**: Jupyter Notebooks com tutoriais passo a passo para ajudar outros desenvolvedores a replicar e entender os projetos e experimentos realizados.
-
-## 🤝 Como Contribuir
-
-Contribuições são sempre bem-vindas! Se você deseja contribuir com melhorias, novos experimentos ou correções, sinta-se à vontade para abrir um pull request ou entrar em contato.
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=green)
+![Pandas](https://img.shields.io/badge/Pandas-333333?style=flat&logo=pandas&logoColor=blue)
+![Numpy](https://img.shields.io/badge/Numpy-333333?style=flat&logo=numpy&logoColor=lightblue)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%2d-learn-333333?style=flat&logo=scikitlearn)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODAiIGhlaWdodD0iMTgwIiBzdHJva2U9ImdyYXkiPgo8ZyBzdHJva2Utd2lkdGg9IjIiIGZpbGw9IiNGRkYiPgo8Y2lyY2xlIGN4PSI5MCIgY3k9IjkwIiByPSI4OCIvPgo8Y2lyY2xlIGN4PSI5MCIgY3k9IjkwIiByPSI2NiIvPgo8Y2lyY2xlIGN4PSI5MCIgY3k9IjkwIiByPSI0NCIvPgo8Y2lyY2xlIGN4PSI5MCIgY3k9IjkwIiByPSIyMiIvPgo8cGF0aCBkPSJtOTAsMnYxNzZtNjItMjYtMTI0LTEyNG0xMjQsMC0xMjQsMTI0bTE1MC02MkgyIi8+CjwvZz48ZyBvcGFjaXR5PSIuOCI+CjxwYXRoIGZpbGw9IiM0NEMiIGQ9Im05MCw5MGgxOGExOCwxOCAwIDAsMCAwLTV6Ii8+CjxwYXRoIGZpbGw9IiNCQzMiIGQ9Im05MCw5MCAzNC00M2E1NSw1NSAwIDAsMC0xNS04eiIvPgo8cGF0aCBmaWxsPSIjRDkzIiBkPSJtOTAsOTAtMTYtNzJhNzQsNzQgMCAwLDAtMzEsMTV6Ii8+CjxwYXRoIGZpbGw9IiNEQjMiIGQ9Im05MCw5MC01OC0yOGE2NSw2NSAwIDAsMC01LDM5eiIvPgo8cGF0aCBmaWxsPSIjM0JCIiBkPSJtOTAsOTAtMzMsMTZhMzcsMzcgMCAwLDAgMiw1eiIvPgo8cGF0aCBmaWxsPSIjM0M5IiBkPSJtOTAsOTAtMTAsNDVhNDYsNDYgMCAwLDAgMTgsMHoiLz4KPHBhdGggZmlsbD0iI0Q3MyIgZD0ibTkwLDkwIDQ2LDU4YTc0LDc0IDAgMCwwIDEyLTEyeiIvPgo8L2c+PC9zdmc+)
+![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIEdlbmVyYXRvcjogU1ZHIFJlcG8gTWl4ZXIgVG9vbHMgLS0+Cgo8c3ZnCiAgIGZpbGw9IiMwMDAwMDAiCiAgIHdpZHRoPSI4MDBweCIKICAgaGVpZ2h0PSI4MDBweCIKICAgdmlld0JveD0iLTAuMiAwIDMyLjkzOSAzMi45MzkiCiAgIHZlcnNpb249IjEuMSIKICAgaWQ9InN2ZzIiCiAgIHNvZGlwb2RpOmRvY25hbWU9ImNoYXJ0LWN1cnZlZGNoYXJ0LWdyYXBoLWxpbmUuc3ZnIgogICBpbmtzY2FwZTp2ZXJzaW9uPSIxLjMuMiAoMToxLjMuMisyMDIzMTEyNTIxNTArMDkxZTIwZWYwZikiCiAgIHhtbG5zOmlua3NjYXBlPSJodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy9uYW1lc3BhY2VzL2lua3NjYXBlIgogICB4bWxuczpzb2RpcG9kaT0iaHR0cDovL3NvZGlwb2RpLnNvdXJjZWZvcmdlLm5ldC9EVEQvc29kaXBvZGktMC5kdGQiCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnMKICAgICBpZD0iZGVmczIiIC8+CiAgPHNvZGlwb2RpOm5hbWVkdmlldwogICAgIGlkPSJuYW1lZHZpZXcyIgogICAgIHBhZ2Vjb2xvcj0iI2ZmZmZmZiIKICAgICBib3JkZXJjb2xvcj0iIzAwMDAwMCIKICAgICBib3JkZXJvcGFjaXR5PSIwLjI1IgogICAgIGlua3NjYXBlOnNob3dwYWdlc2hhZG93PSIyIgogICAgIGlua3NjYXBlOnBhZ2VvcGFjaXR5PSIwLjAiCiAgICAgaW5rc2NhcGU6cGFnZWNoZWNrZXJib2FyZD0iMCIKICAgICBpbmtzY2FwZTpkZXNrY29sb3I9IiNkMWQxZDEiCiAgICAgaW5rc2NhcGU6em9vbT0iMC45MjYyNSIKICAgICBpbmtzY2FwZTpjeD0iMzk5LjQ2MDE5IgogICAgIGlua3NjYXBlOmN5PSI0MDAiCiAgICAgaW5rc2NhcGU6d2luZG93LXdpZHRoPSIyNTYwIgogICAgIGlua3NjYXBlOndpbmRvdy1oZWlnaHQ9Ijk0MSIKICAgICBpbmtzY2FwZTp3aW5kb3cteD0iMCIKICAgICBpbmtzY2FwZTp3aW5kb3cteT0iMjciCiAgICAgaW5rc2NhcGU6d2luZG93LW1heGltaXplZD0iMSIKICAgICBpbmtzY2FwZTpjdXJyZW50LWxheWVyPSJzdmcyIiAvPgogIDxnCiAgICAgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIyNS4xNSAtMzg1LjA1NykiCiAgICAgaWQ9ImcyIgogICAgIHN0eWxlPSJmaWxsOiM1NTk5ZmYiPgogICAgPHBhdGgKICAgICAgIGQ9Ik0yNTYuNjg5LDQxOEgyMjUuMTVWMzg2LjA1N2ExLDEsMCwwLDEsMiwwVjQxNmgyOS41MzlhMSwxLDAsMCwxLDAsMloiCiAgICAgICBpZD0icGF0aDEiCiAgICAgICBzdHlsZT0iZmlsbDojNTU5OWZmIiAvPgogICAgPHBhdGgKICAgICAgIGQ9Ik0yMzAuMTcxLDQwOS45OTVhMSwxLDAsMCwxLS42OC0xLjczM2w1LjAyNC00LjY2OWE0LjcyNSw0LjcyNSwwLDAsMSw2LjQ0MS4wMjNsMS4xNTIsMS4wODdhMy42MjgsMy42MjgsMCwwLDAsNS40LS40NjhsNy40LTkuOTEyYTEsMSwwLDAsMSwxLjYsMS4ybC03LjQsOS45MTJhNS42MjgsNS42MjgsMCwwLDEtOC4zNzMuNzI2bC0xLjE1Mi0xLjA4N2EyLjcxNywyLjcxNywwLDAsMC0zLjcwNi0uMDE0bC01LjAyNSw0LjY3QTEsMSwwLDAsMSwyMzAuMTcxLDQwOS45OTVaIgogICAgICAgaWQ9InBhdGgyIgogICAgICAgc3R5bGU9ImZpbGw6IzU1OTlmZiIgLz4KICA8L2c+Cjwvc3ZnPgo=)
+![SageMaker](https://img.shields.io/badge/SageMaker-333333?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDIuNjY3IiBoZWlnaHQ9IjQyNS4zMzMiIHZlcnNpb249IjEuMCIgdmlld0JveD0iMCAwIDMwMiAzMTkiPjxwYXRoIGQ9Ik05ODkgMjU5NGMtMTI5LTgwLTI0Mi0xNTMtMjUxLTE2MS0xNi0xNC0xOC0zNy0xOC0xODdsLTEtMTcxLTEyMS05NWMtNjYtNTItMTMxLTEwNS0xNDQtMTE3bC0yNC0yMnYtNTAybDI0LTIyYzEzLTEyIDc4LTY1IDE0NC0xMTdsMTIxLTk1IDEtMTQwYzAtNzcgNC0xNDUgOC0xNTEgMTEtMTcgNTUxLTM3NCA1NjUtMzc0IDcgMCA3MiAzNiAxNDUgODBzMTM3IDgwIDE0MiA4MCA2OS0zNiAxNDItODAgMTM4LTgwIDE0NS04MGMxNCAwIDU1NCAzNTcgNTY1IDM3NCA0IDYgOCA3NCA4IDE1MWwxIDE0MCAxMjEgOTVjNjYgNTIgMTMxIDEwNSAxNDQgMTE3bDI0IDIydjUwMmwtMjQgMjJjLTEzIDEyLTc4IDY1LTE0NCAxMTdsLTEyMSA5NS0xIDE3MWMwIDE1MC0yIDE3My0xNyAxODctMzEgMjctNDg1IDMwNy00OTkgMzA3LTcgMC04Ny00OS0xNzgtMTEwbC0xNjYtMTEwLTE2NiAxMTBjLTkxIDYxLTE3MSAxMTAtMTc4IDExMHMtMTE4LTY2LTI0Ny0xNDZtMzkzLTc1IDEzNy05MSAzLTI1OSAzLTI1OSAxMTgtMTE4YzEwOC0xMDkgMTE3LTEyMCAxMTctMTU1IDAtNTggNDMtOTcgMTA1LTk3IDQwIDAgNTIgNSA4MSAzNCAyNCAyNCAzNCA0MyAzNCA2NSAwIDY3LTUzIDEyMS0xMTcgMTIxLTIzIDAtNDkgMjEtMTMxIDEwM2wtMTAyIDEwMnY0NTVsMTQ1IDk2Yzk3IDY1IDE0OSA5NCAxNjEgOTAgOS0zIDEwMS01OSAyMDUtMTI0bDE4OS0xMTd2LTg1aC0xNTFjLTE0NyAwLTE1MiAxLTE4MSAyNS01OCA0OS0xNDggMjctMTc4LTQ1LTI4LTY4IDI5LTE1MCAxMDUtMTUwIDMyIDAgOTUgMzMgOTUgNTAgMCA2IDU3IDEwIDE1NSAxMGgxNTV2LTY5YzAtNTEgNC03NCAxOC04OSA5LTExIDc0LTY1IDE0NS0xMjFsMTI3LTEwMnYtMzk3bC00OS00MS01MC00Mi03MCA4OGMtNjAgNzQtNzEgOTQtNzEgMTI2IDAgNzQtNDAgMTE3LTExMCAxMTctNjkgMC0xMTAtNDMtMTEwLTExNCAwLTQ5IDQwLTk0IDkxLTEwMiAzNS02IDQ4LTE3IDExMC05Nmw3MS04OC0yOC0yM2MtNzYtNTgtNzQtNTItNzQtMjA1Vjg3M2wtMjMyLTE1NS0yMzMtMTU0LTEwMSA2MGMtMTQ3IDg5LTEzNSA2OS0xMzIgMjEwbDMgMTIxIDk0IDNjOTEgMyA5NSAyIDEyMy0yNSA0NC00MiAxMDYtNDAgMTUwIDUgMjcgMjcgMzMgNDAgMzMgNzcgMCA5Ny0xMTQgMTQ4LTE4MyA4Mi0yOC0yNy0zMi0yOC0xMjMtMjVsLTk0IDMtMiAyMTUtMyAyMTUtMTIyIDEyM2MtNjggNjctMTMzIDEyNS0xNDUgMTI4LTM1IDktNjMtMTItNjMtNDkgMC0yOCAxNi00OCAxMTUtMTQ3bDExNS0xMTV2LTc1YzAtNDEtNC04MC04LTg2cy00NC0zMC04OS01M2wtODMtNDF2OTNjMCA2MC01IDk5LTEyIDEwOS03IDgtNTkgNTAtMTE1IDkybC0xMDMgNzd2Mjg1bDEwMSA0OWM1NiAyOCAxMDcgNTkgMTE1IDcwIDExIDE1IDE0IDYyIDE0IDIwMCAwIDIwMC02IDIyNS01OSAyMjUtNDggMC01MS0xMS01MS0xOTJ2LTE2OGwtODgtNDQtODktNDUtMTE2IDcwLTExNyA3MHYyODRsODIgNTBjNDQgMjggODUgNTIgOTAgNTMgNCAyIDgtNzEgOC0xNjEgMC0xNzkgNS0xOTcgNTUtMTk3IDQ5IDAgNTUgMjcgNTUgMjQwdjE5NWw1MiAzM2MyOSAxNyA1NyAzMiA2MyAzMiA1IDAgNzEtNDEgMTQ3LTkxbS00ODUtNjA2IDExMy02OHYtMjczbC0xMzEtNTJjLTcxLTI5LTEzNy01OS0xNDUtNjctMjItMjMtMTctNjEgMTItNzkgMjUtMTcgMjktMTYgMTY3IDM5bDE0MSA1NyA5My03MSA5NC03MC0zLTk3LTMtOTctMTMwLTY2Yy03MS0zNy0xMzYtNzItMTQzLTc5LTIwLTE5LTEwLTYzIDE4LTc4IDI0LTE0IDM5LTggMjc4IDExMiAxMzggNjkgMjU2IDEyNiAyNjIgMTI2czEwLTc4IDEwLTIxOGMwLTI1MyAxNS0yMTktMTM1LTMwOWwtMTAxLTYwLTY0IDQ0Yy0zNiAyNC02NiA0Ny02NyA1MXM1MCAzOSAxMTUgNzdjMTE4IDcxIDEzMCA4MyAxMTggMTMxLTEzIDUwLTQ1IDQyLTIwMC01MWwtMTQ2LTg4LTExMCA3My0xMTAgNzN2MjIzbDkyIDQ0YzExMCA1NCAxMzggNzUgMTM4IDEwMnMtMjggNTgtNTEgNThjLTExIDAtNjYtMjMtMTIzLTUybC0xMDQtNTItMTIxIDk3LTEyMSA5OHYxMDhsMTEzIDY3YzE0OCA4OSAxNzcgMTExIDE3NyAxMzYgMCAyOC0yOCA1OC01MyA1OC0xMCAwLTY0LTI3LTExOS02MC01NC0zMy0xMDMtNjAtMTA4LTYwLTYgMC0xMCAzNC0xMCA3NXY3NGwxMTggOTVjNjQgNTMgMTE5IDk2IDEyMSA5NiAzIDAgNTYtMzAgMTE4LTY3IiBzdHlsZT0iZmlsbDojYTQ2YmZmO2ZpbGwtb3BhY2l0eToxIiB0cmFuc2Zvcm09Im1hdHJpeCguMTMxMjcgMCAwIC0uMTMxMjcgLTU2LjQxMiAzNjguMjI1KSIvPjwvc3ZnPg==)
 
 ## 📬 Contato
 
-Se você tiver dúvidas ou sugestões, pode me encontrar em daniel.braz@vyox.io ou através do [LinkedIn](https://www.linkedin.com/in/dbrazl/).
-
-
-
-Espero que este repositório seja útil para estudantes, pesquisadores e profissionais interessados em machine learning. Vamos aprender e evoluir juntos!
-
-
-## 📜 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para mais detalhes.
-
----
-
-Obrigado por visitar e colaborar!
-
-**Nota**: Este repositório é continuamente atualizado com novos projetos e experimentos, então não deixe de acompanhar as novidades!
+<p align="justify">
+  Se você tiver dúvidas ou sugestões, pode me encontrar em <a href="mailto:daniel.braz@vyox.io">daniel.braz@vyox.io</a> ou através do <a href="https://www.linkedin.com/in/dbrazl/">LinkedIn</a>.
+</p>
