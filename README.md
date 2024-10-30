@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Machine Learning Experiments</h1>
+<h1 align="center">🧠 Experimentos de Machine Learning</h1>
 <br>
 
 ![Banner](https://github-dbrazl.s3.us-east-1.amazonaws.com/machine-learning-experiments/banner.svg?)
