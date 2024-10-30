@@ -1,7 +1,7 @@
 <h1 align="center">🧠 Experimentos de Machine Learning</h1>
 <br>
 
-![Banner](https://github-dbrazl.s3.us-east-1.amazonaws.com/machine-learning-experiments/banner.svg?)
+![Banner](https://github-dbrazl.s3.us-east-1.amazonaws.com/machine-learning-experiments/banner.svg?v=2.0.0)
 
 <p align="center">
     Bem-vindo ao meu repositório de Machine Learning! Este espaço foi criado para compartilhar os diversos experimentos, estudos e projetos que venho desenvolvendo ao longo da minha jornada na área de aprendizado de máquina.
